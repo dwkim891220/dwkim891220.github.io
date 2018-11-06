@@ -1,7 +1,10 @@
 ---
 title: "Volley 에서 Retrofit2 로 변경한 이야기"
 categories: 
-  - develop
+  - Develop
+tags:
+  - Retrofit2
+  - Volley
 last_modified_at: 2017-07-27
 toc: true
 ---
