@@ -6,7 +6,6 @@ tags:
 - Retrofit2
 last_modified_at: 2017-10-17
 toc: true
-
 ---
 
 Volley 에서 Retrofit2로 변경 후 http request 에 대한 response의 status code에 따른 통합 처리가 필요했다.  
