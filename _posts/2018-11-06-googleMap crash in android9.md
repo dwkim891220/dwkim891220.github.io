@@ -7,6 +7,9 @@ tags:
 - Android9
 last_modified_at: 2018-11-06
 toc: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 Android 9 가 출시 되고 새로운 버전에 대한 호환성 문제는 처음으로 발생 했다.

@@ -6,6 +6,9 @@ tags:
 - Kotlin
 last_modified_at: 2018-01-22
 toc: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 처음 웹 어플리케이션 개발을 하면서 배운 java를 지금까지 사용하고 있다.  

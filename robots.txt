@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
 Sitemap: http://dwkim891220.github.io/sitemap.xml

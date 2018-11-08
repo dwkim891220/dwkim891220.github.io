@@ -7,6 +7,9 @@ tags:
 - Volley
 last_modified_at: 2017-07-27
 toc: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 새로운 회사로 이직 후 기존에 서비스 중이던 안드로이드 어플리케이션을 담당하여 개발 및 유지보수를 하게 되었다.  

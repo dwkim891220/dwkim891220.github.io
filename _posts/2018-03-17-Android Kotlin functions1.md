@@ -6,6 +6,9 @@ tags:
 - Kotlin
 last_modified_at: 2018-03-17
 toc: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 `kotlin`을 제품에 적용하면서 너무나도 쾌적한 개발 환경을 느꼈습니다.  
